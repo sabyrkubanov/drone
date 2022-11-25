@@ -1,0 +1,188 @@
+@media (max-width: 1440px) {
+    .container{
+        width: 90%;
+    }
+
+}
+
+@media (max-width: 1340px){
+    .images {
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 1200px) {
+
+.images {
+        flex-direction: column;
+    }
+.hero-img {
+        width: 70%;}
+
+.figures {
+    bottom: 13%;
+    left: -5%;
+    width: 90%;
+}
+.product-tittle{
+
+    width: 70%;
+    height: 35%;
+}
+.hero-bg {
+    left: -4%;
+    height: 90%;
+    top: 8%;
+    width: 98%;}
+.figure {
+    position: absolute;
+    bottom: 45%;
+    right: 55%;
+    width: 2.5%;}
+.drone-tittle {
+    bottom: 20%;
+    right: 27%;
+}
+.product-tabs{
+    flex-wrap: wrap;
+}
+.input-two{
+    flex-wrap: wrap;
+}
+.input-three{
+    flex-wrap: wrap;
+}
+.hero-tittle p {
+        font-size: 12px;
+        line-height: 18px;
+
+    }
+.hero-tittle h1 {
+        font-size: 32px;}
+.hero-tittle button {
+        width: 50%;
+        height: 45px;
+        font-size: 14px;}
+.nav {
+        margin: 0 8px;}
+.tel{
+        font-size: 11px;
+    }
+    .footer-tel {
+        display: none;}
+    .footer{
+        width: 90%;
+    }
+    .footer-logo p {
+        font-size: 38%;}
+    .footer-logo h1{
+        font-size: 66%;
+    }
+    .footer-nav {
+    padding: 0 5%}
+    .footer-logo img {
+        margin-left: 4%;
+    }
+    .footer-nav button {
+        width: 90px;
+        height: 27px;
+        font-size: 10px;}
+    .footer-nav ion-icon{
+        display: none;
+    }
+.header-nav button {
+        width: 94px;
+        height: 25px;
+        font-size: 10px;}
+.card-price {
+        width: 90%;
+    }
+.tittle {
+        font-size: 90%;}
+.product-tittle h1 {
+        font-size: 95%;}
+.line {
+        width: 60%;}
+.line div {
+        width: 12%;}
+.card img {
+
+    width: 70%;
+    height: 35%;
+}
+.card {
+        width: 95%;
+        margin: 10% 0%;
+
+    }
+.drone {
+    width: 89%;
+    height: 63%;
+    left: -19%;
+    top: 20%;}
+}
+
+@media (max-width: 992px) {
+    .container{
+        overflow: hidden;
+    }
+    .product-tabs{
+        flex-wrap: wrap;
+    }
+    .input-two{
+        flex-wrap: wrap;
+    }
+    .input-three{
+        flex-wrap: wrap;
+    }
+    .tel{
+        display: none;
+    }
+    .header-nav button {
+        display: none;}
+    .gatjet h1{
+    }
+}
+@media (max-width: 833px){
+    .product-tabs{
+        justify-content: space-around;
+    }
+    .input-two{
+        justify-content: space-around;
+    }
+    .input-three{
+        justify-content: space-around;
+    }
+    .footer-nav {
+        padding: 0px 30%;}
+    .footer-nav button{
+        display: none;
+    }
+    .footer {
+        width: 78%;
+    }
+}
+@media (max-width: 768px) {
+
+}
+
+@media (max-width: 576px) {
+
+}
+
+@media (max-width: 451px) {
+
+}
+
+@media (max-width: 400px) {
+
+}
+
+@media (max-width: 376px) {
+
+}
+
+@media (max-width: 320px) {
+
+}
+
