@@ -140,8 +140,7 @@
     }
     .header-nav button {
         display: none;}
-    .gatjet h1{
-    }
+
 }
 @media (max-width: 833px){
     .product-tabs{
@@ -163,6 +162,79 @@
     }
 }
 @media (max-width: 768px) {
+.tel{
+    display: flex;}
+    .header-nav{
+        display: none;
+    }
+    .header {
+        width: 85%;
+    }
+    .drone-tittle {
+        right: 5%;
+    }
+    .hero{
+        flex-direction: column;
+
+
+    }
+    .hero-tittle{
+        margin-right: 20%;
+
+    }
+    .hero-tittle button {
+        width: 44%;
+        height: 40px;
+        font-size: 13px;
+        margin: 2% 0 5% 0;
+    }
+    .hero-tittle h1 {
+        font-size: 36px;
+    }
+    .hero-bg {
+        left: 1%;
+        height: 92%;
+        width: 98%;
+        top: 4%;
+    }
+    .drone {
+        width: 72%;
+        height: 56%;
+        left: 4%;
+        top: 29%;
+    }
+    .hero-img {
+        width: 100%;
+    }
+    .figure {
+        right: 26%;}
+    .figures {
+        bottom: 5%;
+        left: 6%;
+        width: 87%;
+    }
+    .hero-tittle p{
+        padding: 3% 0;
+        font-size: 90%;}
+    .gatjet {
+        padding: 3%;
+        align-items: start;
+        flex-direction: column;
+    }
+    .footer-nav {
+        padding: 0 18%;
+    }
+    .footer {
+        width: 85%;
+    }
+}
+@media (max-width: 700px){
+    .footer-nav {
+        padding:0 0;
+    }
+    .footer {
+             width: 100%;
+         }
 
 }
 
@@ -171,7 +243,9 @@
 }
 
 @media (max-width: 451px) {
-
+.footer-nav{
+    display: none;
+}
 }
 
 @media (max-width: 400px) {
